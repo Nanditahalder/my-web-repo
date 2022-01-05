@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+}
+.nan{
+    color: rgba(0, 0, 139, 0.616);
+}
+.half-width{
+    width: 50%;
+}
+#nandi{
+    display: flex;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 10px;
+}
+.half a{
+    text-decoration: none;
+}
+.half button{
+    color: white;
+    padding: 10px 20px;
+    margin-left: 300px;
+    text-decoration-color: rgb(158, 29, 15);
+    background-image:linear-gradient(rgba(0, 17, 255, 0.479),rgba(89, 0, 255, 0.637));
+}
+.boin{
+    display: flex;
+}
+h2{
+    margin-left:100px ;
+}
+.halfdth p{
+    margin-left: 50px;
+}
+/* .btn{
+    color: white;
+} */
+.kaki{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+  grid-gap:30px 30px;
+}
+.kaki img{
+    width:100%;
+    height: 100%;
+    
+}
+
